@@ -4,7 +4,7 @@
 
 ## 🚀 **About Me**:
 
-I am an **IT System Administration** and **Network Engineer** with expertise in:
+I am an **IT Specialist** and **Network Security** with expertise in:
 
 - **IT Technical Support**
 - **Network Security**
