@@ -10,7 +10,7 @@ I am an **IT System Administration** and **Network Engineer** with expertise in:
 - **Network Security**
 - **System Administration**
 
-With over **5+ years of experience**, I specialize in designing and implementing secure and efficient IT infrastructures. Additionally, I have worked as a trainer for **1 year** at **TOP Academy**, delivering training in:
+With over **2+ years of experience**, I specialize in designing and implementing secure and efficient IT infrastructures. Additionally, I have worked as a trainer for **1 year** at **TOP Academy**, delivering training in:
 
 - **Microsoft IC3**
 - **Python** (Preparation for **PCAP Certification by Cisco**)
@@ -78,7 +78,7 @@ Here are the certifications I have achieved and the related expertise gained:
 
 ## 🌟 **Highlights**:
 
-- Over **5+ years** of experience in IT and Networking.
+- Over **2+ years** of experience in IT and Networking.
 - Successfully implemented **secure network infrastructures**.
 - Actively participate in **Cybersecurity training and competitions**.
 - Delivered professional training sessions at **TOP Academy**.
