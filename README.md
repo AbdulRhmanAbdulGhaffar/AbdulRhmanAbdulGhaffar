@@ -6,7 +6,7 @@
 
 I am an **IT Technical Support Specialist** and **Network Engineer** with expertise in:
 
-- **IT Technical Support**
+- **IT Specialist**
 - **Network Security**
 - **System Administration**
 
@@ -36,23 +36,23 @@ Here are the certifications I have achieved:
 ## 🛠️ Skills
 
 - **Networking:** Cisco, Microsoft, Linux
-- **Programming:** Python
+- **Programming:** Python , SQL , C , C# , C++
 - **Security:** Ethical Hacking, CyberOps, Network Security
-- **Certifications:** Cisco CCNA/CCNP, Microsoft MCSA, Red Hat RHCSA
+- **Certifications:** Cisco CCNA/CCNP, Microsoft MCSA/MCSE, Red Hat RHCSA/RHCSE , OSCP , EJPT ,ECIR
 
 ---
 
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrhman-abdulghaffar)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aboodi200)
-[![Email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AboodiAbdo)
+[![Email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhman.abdulghaffar001@gmail.com)
 
 ---
 
 ## 🌟 Highlights
 
-- Over **5+ years** of experience in IT and Networking.
+- Over **2+ years** of experience in IT and Networking.
 - Successfully implemented **secure network infrastructures**.
 - Actively participate in **Cybersecurity training and competitions**.
 
