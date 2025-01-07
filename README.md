@@ -22,6 +22,7 @@ Currently based in **Egypt**, I am passionate about leveraging my skills to crea
 ## 📜 **Certifications and Expertise**:
 
 Here are the certifications I have achieved and the related expertise gained:
+### **Certifications:** Cisco CCNA/CCNP, Microsoft MCSA/MCSE, Red Hat RHCSA/RHCSE , OSCP , EJPT ,ECIR
 
 - **IT Specialist**
   - Fundamental knowledge in IT systems and software management.
@@ -56,7 +57,6 @@ Here are the certifications I have achieved and the related expertise gained:
 - **Networking:** Cisco, Microsoft, Linux
 - **Programming:** Python , SQL , Bash , Batch , JavaScript , C , C# , C++
 - **Security:** Ethical Hacking, CyberOps, Network Security
-- **Certifications:** Cisco CCNA/CCNP, Microsoft MCSA/MCSE, Red Hat RHCSA/RHCSE , OSCP , EJPT ,ECIR
 - **Tools**: Cisco Packet Tracer, GNS3, GitHub, Visual Studio , VMWare,VirualBox
 
 ## Soft Skills:
