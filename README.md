@@ -1,101 +1,123 @@
-# Hi, I'm **AbdulRhman AbdulGhaffar** 👋
+# 👋 Hi there, I'm AbdulRhman AbdulGhaffar Ewais
 
-![Profile Image](./profile.jpg)
-
-## 🚀 **About Me**:
-
-I am an **IT Specialist** and **Network Security** with expertise in:
-
-- **IT Technical Support**
-- **Network Security**
-- **System Administration**
-
-With over **2+ years of experience**, I specialize in designing and implementing secure and efficient IT infrastructures. Additionally, I have worked as a trainer for **1 year** at **TOP Academy**, delivering training in:
-
-- **Microsoft IC3**
-- **Python** (Preparation for **PCAP Certification by Cisco**)
-
-Currently based in **Egypt**, I am passionate about leveraging my skills to create impactful solutions in the tech industry.
+🚀 **Network Engineer | IT System Administrator**  
+📍 Mansoura City, Dakahlia, Egypt  
+📧 abdulrhman.abdulghaffar001@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdulrhmanabdulghaffar) | [GitHub](https://github.com/AboodiAbdo)
 
 ---
 
-## 📜 **Certifications and Expertise**:
+## 🧑‍💻 About Me
 
-Here are the certifications I have achieved and the related expertise gained:
-### **Certifications:** Cisco: CCNA/CCNP/CyberOps Associate/Ethical Hacking /Network Security , Microsoft: MCSA/MCSE / AZ-800 / AZ-801, Red Hat: RHCSA/RHCSE , OSCP , EJPT ,ECIR
+I'm a motivated Network Engineer and IT System Administrator with strong experience in:
 
-- **IT Specialist**
-  - Fundamental knowledge in IT systems and software management.
-- **Network Security**
-  - Hands-on experience securing network infrastructures and mitigating threats.
-- **CCNA**
-  - Proficient in configuring, managing, and troubleshooting Cisco networks.
-- **CCNP**
-  - Advanced skills in enterprise network solutions and complex configurations.
-- **MCSE**
-  - Expertise in Microsoft server environments, including deployment and management.
-- **AZ-800 & AZ-801**
-  - Specialized knowledge in Microsoft Hybrid Infrastructure Implementation.
-- **RHCSA**
-  - Skilled in Red Hat Enterprise Linux system administration.
-- **OSCP**
-  - Practical experience in penetration testing and ethical hacking.
-- **Ejpt**
-  - Understanding of junior penetration testing methodologies.
-- **ECIR**
-  - Incident response expertise for effective cybersecurity management.
-- **CyberOps Associate**
-  - Familiarity with cybersecurity operations and SOC workflows.
-- **IT Technical Support Specialist**
-  - Proven track record in troubleshooting and support services.
+- Designing, implementing, and troubleshooting network infrastructures.
+- Providing IT support, system administration, and cybersecurity solutions.
+- Training and mentoring students in Python and IC3 digital literacy.
 
+I’m passionate about building reliable networks, managing secure IT environments, and always ready to learn and grow in a dynamic tech world.
 
 ---
 
-## 🛠️ **Skills**
-## Technical Skills:
-- **Networking:** Cisco, Microsoft, Linux
-- **Programming:** Python , SQL , Bash , Batch , JavaScript , C , C# , C++
-- **Security:** Ethical Hacking, CyberOps, Network Security
-- **Tools**: Cisco Packet Tracer, GNS3, GitHub, Visual Studio , VMWare,VirualBox
+## 🎓 Education
 
-## Soft Skills:
--	Problem-solving and analytical thinking.
--	Strong teamwork and collaboration.
--	Effective communication in technical and non-technical settings.
--	Quick adaptability to new technologies and workflows.
--	Time management and organizational skills. 
+**Delta University for Science and Technology**  
+*Business Information Systems*  
+📅 Expected Graduation: 2026  
+> Focused on IT systems, network management, and cybersecurity.
 
 ---
 
-## 📬 Get in Touch
+## 💼 Work Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrhmanabdulghaffar)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AboodiAbdo)
-[![Email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhman.abdulghaffar001@gmail.com)
-
----
-
-## 🌟 **Highlights**:
-
-- Over **2+ years** of experience in IT and Networking.
-- Successfully implemented **secure network infrastructures**.
-- Actively participate in **Cybersecurity training and competitions**.
-- Delivered professional training sessions at **TOP Academy**.
+### 🧑‍🏫 Trainer @ TOP Academy (Jan 2023 – Jan 2024)
+- Delivered training in **Python** and **Microsoft IC3**.
+- Helped students prepare for certifications and build practical tech skills.
 
 ---
 
-## 📂 **Projects**:
+## 🛠️ Internships & Projects
 
-### 1. **AI-Powered Cybersecurity System**
-   - Developed an AI-based solution to enhance cybersecurity in critical infrastructure.
+### 📡 Network Engineer Trainee @ NTI Egypt (Jan – Feb 2025)
+- Completed **90-hour CCNA** program (networking, security, troubleshooting).
+- Trained on **soft skills** to enhance team collaboration.
 
-### 2. **Network Setup and Troubleshooting**
-   - Designed and deployed efficient network solutions as part of the **Digital Egypt Pioneers Initiative**.
+### 🖥️ IT Technical Support Specialist @ DEPI (Mar – Oct 2024)
+- Worked on *Network Troubleshooting and End-User Support* project.
+- Resolved real-world network issues and maintained documentation.
 
-### 3. **Quranic Page Project**
-   - Created a platform combining **UI/UX design** with backend development.
+### 🏢 Data Center Maintenance @ Delta Higher Institute (Aug 2024)
+- Gained hands-on experience with system updates, hardware checks, and infrastructure setup.
+
+### 🌐 Network Essentials Intern @ ITC Academy (Jun – Jul 2024)
+- Completed 19 practical labs + 24 Cisco Packet Tracer activities.
 
 ---
 
-### Thank you for visiting my portfolio! 😃
+## 🧠 Skills
+
+### 🔧 Technical Skills
+- **Networking & Security:** CCNA, CCNP, Ethical Hacking  
+- **System Administration:** MCSA, RHCSA  
+- **Tools:** Packet Tracer, GNS3, Wireshark, Syslog, SNMP  
+- **Platforms:** VMware, Hyper-V, GitHub, Visual Studio  
+- **Other:** Wireless, VPN, Technical Support
+
+### 💻 Programming Languages
+- **Python** 🐍  
+- **C++** 💻
+
+### 💡 Soft Skills
+- Analytical problem-solving  
+- Teamwork & collaboration  
+- Clear communication (technical/non-technical)  
+- Quick learning & adaptability  
+- Time management
+
+---
+
+## 📜 Certifications
+
+- ✅ **CCNA** – NTI  
+- ✅ **CCNP** – Cisco  
+- ✅ **MCSA** – Delta Academy  
+- ✅ **RHCSA** – Red Hat  
+- ✅ **HCIA - Cloud Service** – NTI  
+- ✅ **IT Technical Support** – DEPI  
+- ✅ **Ethical Hacking**, **IT Essentials**, **Operating Systems**, **Computer Hardware** – Cisco
+
+---
+
+## 📚 Featured GitHub Projects
+
+- 🔒 **AI-Powered Cybersecurity System for Blood Bank**  
+  > A security-focused system using AI & ML to monitor and protect critical infrastructure.
+
+- 🏛️ **Full University Network Setup**  
+  > Designed for Delta Higher Institute with servers, routers, switches, and proper documentation.
+
+- 📘 **CCNA 200-301 Lab Guide**  
+  > A hands-on guide for students studying CCNA with labs built in Packet Tracer.  
+  [View Repository](https://github.com/aboodi200/CCNA-200-301-Lab-Guide-Full)
+
+---
+
+## 📥 Download My CV
+
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](https://example.com/my-cv-link)
+
+> *(Replace the link above with your actual CV link)*
+
+---
+
+## 📞 Contact Me
+
+- 📧 Email: abdulrhman.abdulghaffar001@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/abdulrhmanabdulghaffar](https://www.linkedin.com/in/abdulrhmanabdulghaffar)  
+- 🐙 GitHub: [github.com/AboodiAbdo](https://github.com/AboodiAbdo)  
+- 📱 WhatsApp: +20 109 398 1406
+
+---
+
+> *"Technology is best when it brings people together." — Let’s connect and collaborate!*
+
