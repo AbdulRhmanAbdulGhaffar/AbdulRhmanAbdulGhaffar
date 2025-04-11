@@ -104,9 +104,9 @@ I’m passionate about building reliable networks, managing secure IT environmen
 
 ## 📥 Download My CV
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](https://example.com/my-cv-link)
+[![Download CV](https://drive.google.com/file/d/1e-pBKfXZcFkg2ws7vL_STJDrpcqaB-KK/view?usp=drive_link)
 
-> *(Replace the link above with your actual CV link)*
+> *(the link above with your actual CV link)*
 
 ---
 
