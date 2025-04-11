@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm AbdulRhman AbdulGhaffar Ewais
+# 👋 Hi there, I'm AbdulRhman AbdulGhaffar Ewais Zaki
 
 🚀 **Network Engineer | IT System Administrator**  
 📍 Mansoura City, Dakahlia, Egypt  
@@ -104,7 +104,7 @@ I’m passionate about building reliable networks, managing secure IT environmen
 
 ## 📥 Download My CV
 
-[![Download CV](https://drive.google.com/file/d/1e-pBKfXZcFkg2ws7vL_STJDrpcqaB-KK/view?usp=drive_link)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1e-pBKfXZcFkg2ws7vL_STJDrpcqaB-KK/view?usp=drive_link)
 
 > *(the link above with your actual CV link)*
 
