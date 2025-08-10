@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm AbdulRhman AbdulGhaffar</h1>
