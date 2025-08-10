@@ -1,6 +1,6 @@
-<!-- Cybersecurity Animated Banner -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="animated-banner.svg" alt="AbdulRhman AbdulGhaffar - Cyber Security Specialist" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=AbdulRhman+AbdulGhaffar;Cyber+Security+Specialist;Incident+Response+Expert;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <!-- Profile Picture -->
