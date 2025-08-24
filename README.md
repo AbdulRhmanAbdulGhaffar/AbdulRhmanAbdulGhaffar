@@ -20,8 +20,9 @@
 [![Email](https://img.shields.io/badge/EmailProfile-blue)](mailto:abdulrhman.abdulghaffar001@gmail.com)
 
 ## 👤 About Me
-I am a **SOC & Incident Response Analyst** with expertise in **SIEM**, log analysis, threat intelligence, and digital forensics. I aim to leverage my skills in threat detection, incident containment, and network security to enhance defense mechanisms and support proactive cybersecurity strategies.
-
+**SOC & Incident Response Analyst** with skills in **SIEM**, log analysis, threat intelligence, and digital forensics. Seeking to apply 
+expertise in threat detection, incident containment, and network security to strengthen defense mechanisms and support 
+proactive cybersecurity strategies. 
 ## 💼 Work Experience
 - **Trainer, TOP Academy** (Jan 2023 – Jan 2024)
   - Delivered training programs in Python and Microsoft IC3, enhancing students' technical competencies.
