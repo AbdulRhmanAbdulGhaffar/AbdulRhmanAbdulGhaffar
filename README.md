@@ -1,8 +1,14 @@
-<!-- Banner -->
-<p align="center" style="background-color: #007bff; color: white; padding: 20px; border-radius: 5px;">
-  <h1>AbdulRhman AbdulGhaffar</h1>
-  <h2>Cyber Security Specialist</h2>
+<p align="center">
+  <!-- بنر SVG متحرك -->
+  <img src="banner.svg" alt="Banner" width="100%" />
+
+  <!-- تأثير الكتابة المتغيرة -->
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AbdulRhman+AbdulGhaffar;Cyber+Security+Specialist;Network+Engineer;IT+Technical+Support;System+Administrator" alt="Typing SVG" />
+  </a>
 </p>
+
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://i.postimg.cc/RFc0f18m/cropped-circle-image-1.png" alt="Profile Picture" width="150" style="border-radius: 50%;">
