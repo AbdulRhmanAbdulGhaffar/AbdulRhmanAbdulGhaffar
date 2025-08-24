@@ -13,11 +13,11 @@
 
 
 
-# AbdulRhman AbdulGhaffar
-
+## AbdulRhman AbdulGhaffar
+# 📧 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/AbdulRhmanAbdulGhaffar)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/AbdulRhmanAbdulGhaffar)
-[![Email](https://img.shields.io/badge/Email-abdulrhman.abdulghaffar001@gmail.com-blue)](mailto:abdulrhman.abdulghaffar001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue)](mailto:abdulrhman.abdulghaffar001@gmail.com)
 
 ## 👤 About Me
 I am a **SOC & Incident Response Analyst** with expertise in **SIEM**, log analysis, threat intelligence, and digital forensics. I aim to leverage my skills in threat detection, incident containment, and network security to enhance defense mechanisms and support proactive cybersecurity strategies.
