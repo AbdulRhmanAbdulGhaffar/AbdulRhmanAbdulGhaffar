@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm AbdulRhman AbdulGhaffar</h1>
-<h3 align="center">Cyber Security Specialist | Incident Response | SOC Tier 1 Analyst</h3>
+<h3 align="center">Incident Response Analyst Trainee @DEPI | SOC Tier 1 | RHCSA | CCNA | MCSA | HCIA - Cloud Service | HCIA DataCom | IT Technical Support</h3>
 
 ---
 
