@@ -1,7 +1,19 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://i.postimg.cc/RFc0f18m/cropped-circle-image-1.png" alt="Typing SVG" />
-</p>
+<div align="center" style="position: relative; overflow: hidden;">
+  <div id="banner" style="background-color: #007bff; color: white; padding: 20px; border-radius: 5px; animation: fadeInOut 5s infinite;">
+    <h1>AbdulRhman AbdulGhaffar</h1>
+    <h2>Cyber Security Specialist</h2>
+  </div>
+</div>
+
+<style>
+@keyframes fadeInOut {
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { opacity: 0; }
+}
+</style>
 
 <!-- Profile Picture -->
 <p align="center">
