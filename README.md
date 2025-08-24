@@ -41,7 +41,10 @@ proactive cybersecurity strategies.
 - **Security+ SY0-601, Netriders Academy**
 - **Linux System Administrator Trainee, NTI Egypt** (Jan – Feb 2025)
 - **Network Engineer Trainee, NTI Egypt** (Jan – Feb 2025)
-
+- **DataCom Engineer Trainee, NTI Egypt**
+- **Cloud Computing Engineer Trainee, NTI Egypt**
+- **IT Technical Support Specialist, DEPI Egypt** ( Mar – Oct 2024 ) 
+---
 ## 🛠️ Skills
 ### Technical Skills
 - **SIEM Tools:** Splunk, Q Radar, Wazuh
