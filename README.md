@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="https://i.postimg.cc/RFc0f18m/cropped-circle-image-1.png" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm AbdulRhman AbdulGhaffar</h1>
