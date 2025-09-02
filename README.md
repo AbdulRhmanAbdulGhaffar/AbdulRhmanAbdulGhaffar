@@ -69,6 +69,3 @@ proactive cybersecurity strategies.
 - **Business Information Systems, Delta University for Science and Technology** (Undergraduate)
 - **Focus on IT systems, network management, and cybersecurity**. 
 
-## 🌐 Languages
-- **Arabic:** Native
-- **English:** Good
