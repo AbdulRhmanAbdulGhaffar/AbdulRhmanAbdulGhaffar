@@ -30,17 +30,53 @@
 expertise in threat detection, incident containment, and network security to strengthen defense mechanisms and support 
 proactive cybersecurity strategies. 
 ## 💼 Work Experience
-- **Digital Egypt Pioneers Initiative (DEPI) | Mar 2024 – Oct 2024 IT Technical Support Trainee (Scholarship)
--	Completed a 6-month intensive training program focused on IT technical support and networking.
--	Executed a capstone project on "Network Troubleshooting," simulating real-world connectivity issues.
-- Applied technical skills to diagnose faults and maintain documentation as part of the practical assessment.
+
+### IT Technical Support Trainee (Scholarship)
+**Digital Egypt Pioneers Initiative (DEPI)** | Mar 2024 – Oct 2024  
+- Completed a 6-month intensive training program focused on IT Technical Support, Networking, and Freelancing skills.  
+- Executed a capstone project on **Network Troubleshooting and End-User Support**, simulating real-world connectivity issues.  
+- Diagnosed hardware and software faults and maintained technical documentation as part of practical assessments.  
+
+### IT Maintenance Trainee
+**Delta Higher Institute** | Aug 2024  
+- Executed data center maintenance tasks for **280+ endpoints** (225 lab workstations & 60 administrative units).  
+- Configured and monitored infrastructure components, contributing to **99% system availability**.  
+- Supported the IT team in optimizing server performance, reducing troubleshooting time by **20%**.  
+
+### Technical Instructor (Python & IC3)
+**TOP Academy** | Jan 2023 – Jan 2024  
+- Instructed **50+ students** in Python programming and Microsoft IC3 fundamentals.  
+- Designed hands-on exercises achieving a **90% certification pass rate**.  
+- Delivered **100+ hours** of technical training and student mentorship.
 
 
-- **Maintenance Technician, Delta Higher Institute** (Aug 2024)
-  - Participated in data center maintenance activities, ensuring optimal performance and security.
+## 🚀 Projects
 
-- **IT Technical Support Specialist, DEPI Egypt** (Mar 2024 – Oct 2024)
-  - Completed training in IT support and freelancing skills, contributing to the "Network Troubleshooting and End-User  Support" project.
+### Multi-Site Enterprise IT Infrastructure Design (Delta Project)
+**Delta University – Academic Project** | Current  
+- **Infrastructure Architecture:** Designing a centralized and secure IT infrastructure connecting two campuses (Mansoura & Gamasa), supporting 4 institutes and **500+ endpoints**.  
+- **System Administration:** Implementing centralized administration for users and devices, automated OS deployment (WDS/MDT), and centralized antivirus updates.  
+- **Network Security & Connectivity:** Configuring secure high-speed site-to-site connectivity, internet access control (filtering & bandwidth limits), and securing DNS/DHCP services.  
+- **Server & Service Management:** Establishing centralized backup solutions, print server management with user authentication and priority control, and remote server monitoring.  
+
+### Smart Carbon Footprint Management Platform
+**Graduation Project – Delta University** | Current  
+- **Platform Development:** Developing a comprehensive web-based platform to calculate, track, and analyze carbon emissions for individuals and organizations.  
+- **AI & Data Analytics:** Integrating AI algorithms to analyze data patterns and provide actionable recommendations for reducing environmental impact.  
+- **Sustainability Impact:** Enabling data-driven sustainability decisions through real-time monitoring and reporting dashboards.  
+
+### Cybersecurity Incident Response Framework
+**Digital Egypt Pioneers Initiative (DEPI) – Graduation Project**  
+- **Framework Development:** Designed a comprehensive Incident Response (IR) framework to enhance organizational cybersecurity readiness.  
+- **SOC Simulation:** Simulated the structure and operations of an Incident Response Team (IRT), managing the full incident lifecycle (Preparation, Detection, Containment, Eradication, Recovery).  
+- **Operational Readiness:** Established protocols to mitigate security risks and ensure rapid response to system vulnerabilities.  
+
+### Enterprise Network Infrastructure Design
+**Digital Egypt Pioneers Initiative (DEPI) – Graduation Project**  
+- **Infrastructure Setup:** Designed and deployed a secure and scalable enterprise network integrating Cisco devices and Windows Server environments.  
+- **Configuration & Optimization:** Configured Active Directory, DNS, and DHCP services with performance optimization and troubleshooting.  
+- **Documentation:** Delivered detailed technical proposals, network topology diagrams, and configuration documentation for scalability and maintenance.  
+
 
 ## 📚 Courses & Training
 - **Incident Response Analyst Trainee, DEPI Egypt** (Jul – Dec 2025)
