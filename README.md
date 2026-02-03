@@ -105,5 +105,5 @@ proactive cybersecurity strategies.
 
 ## 🎓 Education
 - **Bachelor of Business Information Systems (BIS) Delta University for Science and Technology | Sep 2022 – 2026**
-- •	**Relevant Coursework: IT Systems Management, Network Administration, Cybersecurity, and Database Systems.**
+- **Relevant Coursework: IT Systems Management, Network Administration, Cybersecurity, and Database Systems.**
 
