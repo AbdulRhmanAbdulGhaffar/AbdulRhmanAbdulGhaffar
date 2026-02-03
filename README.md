@@ -104,6 +104,6 @@ proactive cybersecurity strategies.
 - Time management
 
 ## 🎓 Education
-- **Business Information Systems, Delta University for Science and Technology** (Undergraduate)
-- **Focus on IT systems, network management, and cybersecurity**. 
+- **Bachelor of Business Information Systems (BIS) Delta University for Science and Technology | Sep 2022 – 2026**
+- •	**Relevant Coursework: IT Systems Management, Network Administration, Cybersecurity, and Database Systems.**
 
