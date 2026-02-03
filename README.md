@@ -30,9 +30,11 @@
 expertise in threat detection, incident containment, and network security to strengthen defense mechanisms and support 
 proactive cybersecurity strategies. 
 ## 💼 Work Experience
-- **Trainer, TOP Academy** (Jan 2023 – Jan 2024)
-  - Delivered training programs in Python and Microsoft IC3, enhancing students' technical competencies.
-  - Prepared students for certification exams through practical exercises and targeted skill development.
+- **Digital Egypt Pioneers Initiative (DEPI) | Mar 2024 – Oct 2024 IT Technical Support Trainee (Scholarship)
+-	Completed a 6-month intensive training program focused on IT technical support and networking.
+-	Executed a capstone project on "Network Troubleshooting," simulating real-world connectivity issues.
+- Applied technical skills to diagnose faults and maintain documentation as part of the practical assessment.
+
 
 - **Maintenance Technician, Delta Higher Institute** (Aug 2024)
   - Participated in data center maintenance activities, ensuring optimal performance and security.
